@@ -27,8 +27,7 @@ Aprender los conceptos básicos de control de versiones.
 -[Archivo de configuración (compose.yaml)](entorno/compose.yaml)
 
 3. [Modelo de Base de Datos (modelo/)](modelo/)
-  * [Diagrama Entidad-Relación](modelo/diagrama-er.png)
 
 4.[Evidencias de la Práctica (evidencias/)](evidencias/)
-  * [Capturas de Git y GitHub](evidencias/git/)
-  * [Capturas de PostgreSQL y Docker](evidencias/docker/) 
+  -[Capturas de Git y GitHub](evidencias/git/)
+  -[Capturas de PostgreSQL y Docker](evidencias/docker/) 
