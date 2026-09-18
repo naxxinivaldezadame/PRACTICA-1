@@ -4,6 +4,9 @@ Grupo: 3CV2
 Carrera: Ingeniería en Sistemas Computacionales
 ESCUELA SUPERIOR DE COMPUTO (ESCOM)
 Septiembre 2026
+
+Objetivo
+Aprender los conceptos básicos de control de versiones.
 Índice de la práctica
 
 1. Parte A.
