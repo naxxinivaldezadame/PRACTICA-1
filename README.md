@@ -20,3 +20,4 @@ Aprender los conceptos básicos de control de versiones.
    - Configuración del archivo .gitignore
    - Historial de confirmaciones (Commits)
    - Creación de rama, Pull Request y Fusión
+practica finalizada 
