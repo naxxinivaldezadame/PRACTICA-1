@@ -3,8 +3,8 @@ Nombre completo: Naxxini Giovani Valdez Adame
 Grupo: 3CV2
 Carrera: Ingeniería en Sistemas Computacionales
 ESCUELA SUPERIOR DE COMPUTO (ESCOM)
-
-## Índice de la práctica
+Septiembre 2026
+Índice de la práctica
 
 1. Parte A.
    - Conceptos de Control de Versiones
