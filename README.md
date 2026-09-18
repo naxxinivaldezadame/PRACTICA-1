@@ -1,9 +1,9 @@
 PRACTICA-1
 Nombre completo:
 
-Valdez Adame Naxxini Giovani 
-Martinez Vazquez Alejandra
-Malagon Granados Rene Alejandro
+-Valdez Adame Naxxini Giovani 
+-Martinez Vazquez Alejandra
+-Malagon Granados Rene Alejandro
 
 
 Grupo: 3CV2
