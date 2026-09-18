@@ -5,8 +5,9 @@ Carrera: Ingeniería en Sistemas Computacionales
 ESCUELA SUPERIOR DE COMPUTO (ESCOM)
 Septiembre 2026
 
-Objetivo
+Objetivo:
 Aprender los conceptos básicos de control de versiones.
+
 Índice de la práctica
 
 1. Parte A.
