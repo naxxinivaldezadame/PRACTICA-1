@@ -1,0 +1,10 @@
+# Ignorar archivos del sistema de Mac
+.DS_Store
+
+# Ignorar archivos del sistema de Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar archivos temporales
+*.log
+*.tmp
